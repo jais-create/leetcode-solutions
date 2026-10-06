@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jais-create/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/jais-create/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/jais-create/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
