@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jais-create/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/jais-create/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/jais-create/leetcode-solutions/tree/master/0143-reorder-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
