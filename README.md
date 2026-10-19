@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jais-create/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/jais-create/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jais-create/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/jais-create/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jais-create/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/jais-create/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
