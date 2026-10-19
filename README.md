@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/jais-create/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jais-create/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jais-create/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/jais-create/leetcode-solutions/tree/master/0143-reorder-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
