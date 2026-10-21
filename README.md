@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jais-create/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/jais-create/leetcode-solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jais-create/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jais-create/leetcode-solutions/tree/master/0001-two-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/jais-create/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/jais-create/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2942-find-words-containing-character](https://github.com/jais-create/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -87,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/jais-create/leetcode-solutions/tree/master/0143-reorder-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Simulation
 |  |
 | ------- |
@@ -113,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
