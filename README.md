@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/jais-create/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jais-create/leetcode-solutions/tree/master/0001-two-sum) |
+| [0622-design-circular-queue](https://github.com/jais-create/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/jais-create/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/jais-create/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Depth-First Search
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/jais-create/leetcode-solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
