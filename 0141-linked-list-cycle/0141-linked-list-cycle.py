@@ -6,15 +6,14 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
+        if head and head.next==None:
+            return False
         freq={}
         curr=head
-        i=0
         while curr:
-            if curr in freq:
-                return True
+            if curr not in freq:
+                freq[curr]=1
+                curr=curr.next
             else:
-                freq[curr]=i+1
-            curr=curr.next
-                
+                return True
         return False
-        
