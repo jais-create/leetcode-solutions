@@ -5,29 +5,34 @@
 #         self.next = next
 class Solution:
     def nodesBetweenCriticalPoints(self, head: ListNode | None) -> list[int]:
+        if head==None or head.next==None or head.next.next==None:
+            return[-1,-1]
         arr=[]
-        ind=[]
+        indx=[]
+        ans=[]
         curr=head
         while curr:
             arr.append(curr.val)
             curr=curr.next
-        if len(arr)==1 or len(arr)==2:
-            return[-1,-1]
         for i in range(1,len(arr)-1):
-            if arr[i]>arr[i-1] and arr[i]>arr[i+1]:
-                ind.append(i)
-            if arr[i]<arr[i-1] and arr[i]<arr[i+1]:
-                ind.append(i)
-        if len(ind)<2:
+            if arr[i-1]<arr[i] and arr[i]>arr[i+1]:
+                indx.append(i+1)
+            if arr[i-1]>arr[i] and arr[i+1]>arr[i]:
+                indx.append(i+1)
+        if len(indx)<2:
             return[-1,-1]
-        res=[]
-        mn=99999999
-        res.append(ind[len(ind)-1]-ind[0])
-        for i in range(len(ind)-1):
-            mn=min(mn,ind[i+1]-ind[i])
-        res.append(mn)
+        minn=99999999
+        for i in range(len(indx)-1):
+            minn=min(minn,indx[i+1]-indx[i])
+        max=indx[len(indx)-1]-indx[0]
+        ans.append(minn)
+        ans.append(max)
+        return ans
+        
 
-        return sorted(res)
+        
+
+
         
 
 
