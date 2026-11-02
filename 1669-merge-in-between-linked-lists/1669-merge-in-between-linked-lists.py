@@ -6,22 +6,28 @@
 class Solution:
     def mergeInBetween(self, list1: ListNode, a: int, b: int, list2: ListNode) -> ListNode:
         curr1=list1
-        ans=curr1
+        cu=curr1
         c=1
-        while curr1 and curr1.next:
-            
+        while curr1:
             if c==a:
-                temp=curr1.next
-                curr1.next=list2
-                while temp and temp.next and b!=c:
-                    temp=temp.next
-                    c+=1
-                while curr1 and curr1.next:
-                    curr1=curr1.next
-                curr1.next=temp.next
-            c+=1
+                save=curr1.next
+                break
             curr1=curr1.next
-        return ans
+            c+=1
+        curr2=list2
+        if curr2:
+            curr1.next=curr2
+        while curr1 and curr1.next:
+            curr1=curr1.next
+        iter=b-a
+        while iter:
+            save=save.next
+            iter-=1
+        curr1.next=save.next
+
+        return cu
+
+
 
             
 
