@@ -13,21 +13,17 @@ class Solution:
             curr=curr.next
         total=0
         for i in range(1,len(arr1)):
-            if arr1[i] !=0:
+            if arr1[i]!=0:
                 total+=arr1[i]
             else:
                 arr2.append(total)
                 total=0
         new=ListNode()
-        ret=new
+        newh=new
         for i in range(len(arr2)):
-            new.val=arr2[i]
-            if i+1<len(arr2):
-                new.next=ListNode(arr2[i+1])
-            else:
-                new.next=None
-            new=new.next
-        return ret
+            new.next = ListNode(arr2[i])
+            new = new.next
+        return newh.next
 
 
 
