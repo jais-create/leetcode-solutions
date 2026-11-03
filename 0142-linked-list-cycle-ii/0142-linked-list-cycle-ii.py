@@ -8,14 +8,11 @@ class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
         freq={}
         curr=head
- 
-
         while curr:
-            if curr in freq:
-                return curr
-            else:
+            if curr not in freq:
                 freq[curr]=curr
-                
+            else:
+                return curr
             curr=curr.next
         return None
 
