@@ -5,18 +5,22 @@
 #         self.next = next
 class Solution:
     def reverseBetween(self, head: ListNode | None, left: int, right: int) -> ListNode | None:
-        dummy=ListNode(0,head)
-        leftprev,curr=dummy,head
+        if head==None or left==right:
+            return head
+        dummy=ListNode()
+        dummy.next=head
+        prev=dummy
         for i in range(left-1):
-            leftprev,curr=curr,curr.next
-        prev=None
-        for i in range(right-left+1):
-            tempnext=curr.next
-            curr.next=prev
-            prev,curr=curr,tempnext
-        leftprev.next.next=curr
-        leftprev.next=prev
+            prev=prev.next
+        curr=prev.next
+        for i in range(right-left):
+            temp=curr.next
+            curr.next=temp.next
+            temp.next=prev.next
+            prev.next=temp
         return dummy.next
+
+
 
 
 
