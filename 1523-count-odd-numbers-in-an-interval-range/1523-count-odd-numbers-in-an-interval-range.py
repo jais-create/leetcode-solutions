@@ -3,7 +3,9 @@ class Solution:
         if (high-low+1)%2==0:
             return (high-low+1)//2
         else:
-            if low%2!=0 and high%2!=0:
-                return (high-low+1)//2+1
+            if high%2==0 and low%2==0:
+                return (high-low)//2
             else:
-                return(high-low+1)//2
+                return (high-low+1)//2+1
+
+ 
