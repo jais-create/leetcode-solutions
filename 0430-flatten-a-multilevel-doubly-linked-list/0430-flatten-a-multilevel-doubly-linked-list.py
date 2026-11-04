@@ -9,7 +9,7 @@ class Node:
 """
 class Solution:
     def flatten(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        if head is None:
+        if head==None:
             return None
         curr=head
         while curr:
@@ -27,6 +27,7 @@ class Solution:
                     temp.prev=tail
             curr=curr.next
         return head
+
 
 
 
