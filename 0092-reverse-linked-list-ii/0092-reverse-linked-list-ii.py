@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def reverseBetween(self, head: ListNode | None, left: int, right: int) -> ListNode | None:
-        if head==None or left==right:
+        if head==None or head.next==None:
             return head
         dummy=ListNode()
         dummy.next=head
@@ -18,7 +18,9 @@ class Solution:
             curr.next=temp.next
             temp.next=prev.next
             prev.next=temp
+
         return dummy.next
+
 
 
 
