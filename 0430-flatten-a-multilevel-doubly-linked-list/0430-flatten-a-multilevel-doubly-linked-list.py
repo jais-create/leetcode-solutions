@@ -9,8 +9,6 @@ class Node:
 """
 class Solution:
     def flatten(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        if head==None:
-            return None
         curr=head
         while curr:
             if curr.child:
@@ -18,15 +16,16 @@ class Solution:
                 c=curr.child
                 curr.next=c
                 c.prev=curr
-                tail=c
                 curr.child=None
-                while tail.next:
+                tail=c
+                while tail and tail.next:
                     tail=tail.next
                 tail.next=temp
                 if temp:
                     temp.prev=tail
             curr=curr.next
         return head
+
 
 
 
