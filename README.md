@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jais-create/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/jais-create/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jais-create/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jais-create/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2942-find-words-containing-character](https://github.com/jais-create/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/jais-create/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jais-create/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
