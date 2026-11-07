@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jais-create/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/jais-create/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/jais-create/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jais-create/leetcode-solutions/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/jais-create/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
