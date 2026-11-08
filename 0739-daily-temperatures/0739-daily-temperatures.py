@@ -9,4 +9,6 @@ class Solution:
                 answer[popped_indx]=i-popped_indx
             stack.append(i)
         return answer
+
+        
         
