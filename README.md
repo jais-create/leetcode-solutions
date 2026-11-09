@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/jais-create/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/jais-create/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jais-create/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jais-create/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/jais-create/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jais-create/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jais-create/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jais-create/leetcode-solutions/tree/master/0027-remove-element) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jais-create/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/jais-create/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0622-design-circular-queue](https://github.com/jais-create/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/jais-create/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jais-create/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/jais-create/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jais-create/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jais-create/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/jais-create/leetcode-solutions/tree/master/0739-daily-temperatures) |
