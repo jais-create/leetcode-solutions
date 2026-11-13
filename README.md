@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jais-create/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jais-create/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jais-create/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/jais-create/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2942-find-words-containing-character](https://github.com/jais-create/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jais-create/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/jais-create/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jais-create/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/jais-create/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/jais-create/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
