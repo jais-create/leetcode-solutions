@@ -1,21 +1,22 @@
 class Solution:
-    def nextGreaterElement(self, nums1: list[int], nums2: list[int]) -> list[int]:
-        next_greater = {}
-        stack = []
-
-        for num in nums2:
-            while len(stack) > 0 and num > stack[-1]:
-                smaller_num = stack.pop()
-                next_greater[smaller_num] = num
-            stack.append(num)
+    def nextGreaterElement(self, n1: list[int], n2: list[int]) -> list[int]:
+        stack=[]
+        greater={}
+        for n in n2:
+            while stack and n>stack[-1]:
+                small=stack.pop()
+                greater[small]=n
             
-        # Phase 2: Build the answer list for nums1 using a regular loop
-        answer = []
-        for num in nums1:
-            if num in next_greater:
-                answer.append(next_greater[num])
+            stack.append(n)
+        answer=[]
+        for i in range(len(n1)):
+            if n1[i] in greater:
+                answer.append(greater[n1[i]])
             else:
                 answer.append(-1)
-                
         return answer
+
+
+
+
         
