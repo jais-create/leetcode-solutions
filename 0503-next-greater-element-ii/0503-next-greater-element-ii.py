@@ -6,8 +6,8 @@ class Solution:
             while stack and nums[stack[-1]]<nums[i%len(nums)]:
                 ans[stack[-1]]=nums[i%len(nums)]
                 stack.pop()
-        
-            stack.append(i%len(nums))
+            if i<len(nums):
+                stack.append(i%len(nums))
         return ans
 
 
